@@ -1,0 +1,15 @@
+.marquee-background {
+    background-color: rgb(238, 238, 231);
+}
+
+.social-tab-facebook {
+    background-color: rgb(47, 97, 197);
+}
+
+.title {
+    font-weight: bold;
+}
+
+.description {
+    font-size: smaller;
+}
